@@ -66,7 +66,7 @@ Designed using draw.io and python
 ## Contributors names and contact info
 - Tsyr Rau Chen, () 
 - Arailym Duisengali, (araikinn@bu.edu)
-- Sheikh Noohery, (noohery@bu.edu)
+- Sheikh Noohery, (noohery@gmail.com)
 - Lo Ying Wu, ()
 - Kuan Rong Yang, (yangkr@bu.edu)
 
